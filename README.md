@@ -11,7 +11,8 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualment
 
 - 👨🏽‍💻 No momento, estou estudando desenvolvimento **back-end**, como parte da minha formação full stack;
 - :high_brightness: Já desenvolvo projetos **front-end**;  
-- :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora;
+- :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora e 
+  progredir nas boas práticas de programação;
 - 🌱 Minha primeira formação é em Ciências Biológicas/Ecologia e ainda gosto de estudar e conversar sobre o assunto;
 - :recycle: Aspiro consciliar a tecnologia à projetos voltados para sustentabilidade e meio ambiente;
 - 📫 Caso queira entrar em contato, meu email é **ligiabicalho@gmail.com**.
@@ -44,12 +45,12 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualment
 ### Em aprendizado:
 
 <p> 
-  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" width="110px">
-  <img src="https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=fff" alt="phyton" width="85px"> 
-  <img src="https://img.shields.io/badge/-MongoDB-1C1C1C?style=plastic&logo=mongodb&logoColor=47A248" alt="mongodb" width="105px">  
+  <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" alt="nodeJS" width="90px">
   <img src="https://img.shields.io/badge/-Express-1C1C1C?style=plastic&logo=express&logoColor=fff" alt="express" width="95px">
-  <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" alt="nodeJS" width="90px"> 
-  <img src="https://img.shields.io/badge/-Heroku-1C1C1C?style=plastic&logo=heroku&logoColor=764ABC" alt="heroku" width="90px"> 
+  <img src="https://img.shields.io/badge/-MongoDB-1C1C1C?style=plastic&logo=mongodb&logoColor=47A248" alt="mongodb" width="105px">
+  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" width="110px">
+  <img src="https://img.shields.io/badge/-Heroku-1C1C1C?style=plastic&logo=heroku&logoColor=764ABC" alt="heroku" width="90px">
+  <img src="https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=fff" alt="phyton" width="85px">   
 </p>
 <br />
 <p>
