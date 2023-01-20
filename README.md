@@ -9,11 +9,11 @@
 
 Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualmente estou em transição de carreira, me formando em **Desenvolvimento de Software Web** 🚀. 
 
-- 👨🏽‍💻 Estou estudando **desenvolvimento back-end**, como parte da minha formação full stack;
-- 🌱 Já tenho projetos front-end desenvolvidos;  
-- 💼 Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora;
-- 💬 Minha primeira formação é em Ciências Biológicas/Ecologia e ainda gosto de estudar e conversar sobre o assunto;
-- :recycle: Aspiro consciliar a tecnologia à projetos voltados a sustentabilidade;
+- 👨🏽‍💻 No momento, estou estudando desenvolvimento **back-end**, como parte da minha formação full stack;
+- :high_brightness: Já desenvolvo projetos **front-end**;  
+- :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora;
+- 🌱 Minha primeira formação é em Ciências Biológicas/Ecologia e ainda gosto de estudar e conversar sobre o assunto;
+- :recycle: Aspiro consciliar a tecnologia à projetos voltados para sustentabilidade e meio ambiente;
 - 📫 Caso queira entrar em contato, meu email é **ligiabicalho@gmail.com**.
 - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> para mais informações.
 
