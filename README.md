@@ -23,30 +23,33 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualment
 ### Linguagens e ferramentas que já utilizo:  
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://testing-library.com/img/octopus-128x128.png" alt="rtl" width="40" height="40"/>
+  <img src = "https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" alt="html5" width="85px"> 
+  <img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" alt="css3" width="75px"> 
+  <img src = "https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" alt="javascript" width="110px"> 
+  <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" alt="react" width="90px"> 
+  <img src="https://img.shields.io/badge/-React%20Router-1C1C1C?logo=react-router&logoColor=CA4245&style=plastic" alt="react_router" width="130px">
+  <img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" alt="redux" width="85px"> 
+  <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" alt="jest" width="65px"> 
+  <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" alt="RTL" width="150px">
 </p>
 <p> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/-Linux-1C1C1C?style=plastic&logo=Linux&logoColor=eed718" alt="Linux" width="75px">
+  <img src="https://img.shields.io/badge/-Git-1C1C1C?logo=git&logoColor=F05032&style=plastic" alt="git" width="55px">
+  <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" alt="npm" width="70px">
+  <img src="https://img.shields.io/badge/-Docker-1C1C1C?style=plastic&logo=docker&logoColor=1572B6" alt="docker" width="85px">
+  <img src="https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1" alt="mysql" width="85px">
+  
 </p>
 
 ### Em aprendizado:
 
-<p>  
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="phyton" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
+<p> 
+  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" width="110px">
+  <img src="https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=fff" alt="phyton" width="85px"> 
+  <img src="https://img.shields.io/badge/-MongoDB-1C1C1C?style=plastic&logo=mongodb&logoColor=47A248" alt="mongodb" width="105px">  
+  <img src="https://img.shields.io/badge/-Express-1C1C1C?style=plastic&logo=express&logoColor=fff" alt="express" width="95px">
+  <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" alt="nodeJS" width="90px"> 
+  <img src="https://img.shields.io/badge/-Heroku-1C1C1C?style=plastic&logo=heroku&logoColor=764ABC" alt="heroku" width="90px"> 
 </p>
 <br />
 <p>
@@ -61,4 +64,4 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualment
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ligiabicalho" alt="ligaibicalho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ligiabicalho" alt="ligaibicalho_views" /> </p>
