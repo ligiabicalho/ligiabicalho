@@ -16,7 +16,7 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualment
 - 🌱 Minha primeira formação é em Ciências Biológicas/Ecologia e ainda gosto de estudar e conversar sobre o assunto;
 - :recycle: Aspiro consciliar a tecnologia à projetos voltados para sustentabilidade e meio ambiente;
 - 📫 Caso queira entrar em contato, meu email é **ligiabicalho@gmail.com**.
-- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> para mais informações e conecte-se comigo no <a href="https://www.linkedin.com/in/ligiabicalho/" target="_blank">LinkedIn</a>.
+- 📝 Veja meu currículo <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> para mais informações e conecte-se comigo no <a href="https://www.linkedin.com/in/ligiabicalho/" target="_blank">LinkedIn</a>.
 
 <br />
 <br />
