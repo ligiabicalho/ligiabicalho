@@ -15,6 +15,7 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualment
   progredir nas boas práticas de programação;
 - 🌱 Minha primeira formação é em Ciências Biológicas/Ecologia e ainda gosto de estudar e conversar sobre o assunto;
 - :recycle: Sou entusiasta da agroecologia e aspiro consciliar a tecnologia à projetos de impacto, voltados para sustentabilidade e meio ambiente;
+- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro compartilhar saberes!
 - 📫 Caso queira entrar em contato, meu email é **ligiabicalho@gmail.com**.
 - 📝 Veja meu currículo <a href="https://gitconnected.com/ligiabicalho/resume" target="_blank">clicando aqui</a> e conecte-se comigo no <a href="https://www.linkedin.com/in/ligiabicalho/" target="_blank">LinkedIn</a>.
 
@@ -38,25 +39,30 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e atualment
 </div>
 
 <div id="front-end">
-<img src="https://img.shields.io/badge/-React_Js-1C1C1C?logo=react&logoColor=61DAFB" alt="react" height="25px"> 
-<img src="https://img.shields.io/badge/-React_Hooks-1C1C1C?logo=react&logoColor=61DAFB" alt="react" height="25px"> 
-<img src="https://img.shields.io/badge/-React_Router-1C1C1C?logo=react-router&logoColor=CA4245" alt="react_router" height="25px">
-<img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC" alt="redux" height="25px"> 
+  <span>Front-end</span><br>
+  <img src="https://img.shields.io/badge/-React_Js-1C1C1C?logo=react&logoColor=61DAFB" alt="react" height="25px"> 
+  <img src="https://img.shields.io/badge/-Hooks-1C1C1C?logo=react&logoColor=61DAFB" alt="react_hooks" height="25px">
+  <img src="https://img.shields.io/badge/-Context API-1C1C1C?logo=react&logoColor=61DAFB" alt="react_contextAPI" height="25px"> 
+  <img src="https://img.shields.io/badge/-React_Router-1C1C1C?logo=react-router&logoColor=CA4245" alt="react_router" height="25px">
+  <img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC" alt="redux" height="25px"> 
 </div>
 
 <div id="back-end">
+  <span>Back-end</span><br>
   <img src="https://img.shields.io/badge/-Node.js-1C1C1C?logo=Node.js&logoColor=3C873A" alt="nodeJS" height="25px">
   <img src="https://img.shields.io/badge/-Express-1C1C1C?logo=express&logoColor=fff" alt="express" height="25px">
   <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?logo=typescript&logoColor=3178C6" alt="typescript" height="25px">
 </div>
 
 <div id="data-base">
+  <span>Banco de dados</span><br>
   <img src="https://img.shields.io/badge/-MySQL-1C1C1C?logo=mysql&logoColor=4479A1" alt="mysql" height="25px">
   <img src="https://img.shields.io/badge/-Sequelize-1C1C1C?logo=sequelize&logoColor=#52B0E7" alt="sequelize" height="25px">
   <img src="https://img.shields.io/badge/-MongoDB-1C1C1C?logo=mongodb&logoColor=47A248" alt="mongodb" height="25px">
 </div>
 
 <div id="testes">
+  <span>Testes</span><br>
   <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325" alt="jest" height="25px"> 
   <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332" alt="RTL" height="25px">
   <img src="https://img.shields.io/badge/-Mocha-1C1C1C?logo=Mocha&logoColor=8D6748" alt="Mocha" height="25px">
