@@ -9,8 +9,8 @@
 
 Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e estou me formando em **Desenvolvimento de Software Web** 🚀. 
 
-- 👨🏽‍💻 No momento, estou estudando desenvolvimento **back-end**, como parte da minha formação full stack;
-- :high_brightness: Em **front-end** já desenvolvo interfaces _Single Page Applications_, utilizando React js; 
+- 👨🏽‍💻 No momento, estou estudando desenvolvimento **back-end**, utlizando node.js e express, como parte da minha formação full stack;
+- :high_brightness: Em **front-end** já desenvolvo interfaces _Single Page Applications_, utilizando React js e Angular 2+; 
 - :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora e 
   progredir nas boas práticas de programação;
 - 🌱 Minha primeira formação é em Ciências Biológicas/Ecologia e ainda gosto de estudar e conversar sobre o assunto;
