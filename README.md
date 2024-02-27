@@ -7,11 +7,10 @@
 <br />
 <br />
 
-Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e estou me formando em **Desenvolvimento de Web Full Stack** 🚀. 
+Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e sou **Desenvolvedora de Web Full Stack** 🚀. 
 
-- 👨🏽‍💻 No momento estou estudando ciência da computação, como parte final da formação em Desenvolvimento Web, aprofundando conhecimentos em algoritmos e programação orientada a objetos (POO) com Python.
-- No desenvolvimento **back-end** utlizo node.js e express na criação de API REST, integrando com banco de dados SQL e NoSQL;
-- :high_brightness: Em **front-end** já desenvolvo interfaces _Single Page Applications_, utilizando React js e Angular 2+; 
+- 👨🏽‍💻 No desenvolvimento **back-end** utlizo node.js com express na criação de API REST, como também Python, integrando com banco de dados SQL e NoSQL.
+- :high_brightness: Em **front-end** desenvolvo interfaces _Single Page Applications_, utilizando Next.js (React js) ou Angular 2+; 
 - :brain: Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedora e 
   progredir nas boas práticas de programação;
 - 🌱 Minha primeira formação é em Ciências Biológicas/Ecologia, onde desenvolvi visão analítica, estatística e linguagem R;
@@ -32,15 +31,18 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e estou me 
   <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837" alt="npm" height="25px">
   <img src="https://img.shields.io/badge/-Docker-1C1C1C?logo=docker&logoColor=2496ED" alt="docker" height="25px">
 </div>
-
+<br />
 <div id="fundamentos-desenvolvimento-web">
   <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?logo=javascript&logoColor=eed718" alt="javascript" height="25px"> 
+  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?logo=typescript&logoColor=3178C6" alt="typescript" height="25px">
   <img src="https://img.shields.io/badge/-HTML5-1C1C1C?logo=html5&logoColor=E34F26" alt="html5" height="25px"> 
   <img src="https://img.shields.io/badge/-CSS3-1C1C1C?logo=css3&logoColor=1572B6" alt="css3"height="25px"> 
 </div>
-
+<br />
 <div id="front-end">
   <span>Front-end</span><br>
+  <img src="https://img.shields.io/badge/-Next.js-1C1C1C?logo=nextdotjs&logoColor=000000" alt="nextdotjs" height="25px"> 
+  <img src="https://img.shields.io/badge/-Tailwind-1C1C1C?logo=tailwindcss&logoColor=06B6D4" alt="tailwindcss" height="25px">
   <img src="https://img.shields.io/badge/-React_Js-1C1C1C?logo=react&logoColor=61DAFB" alt="react" height="25px"> 
   <img src="https://img.shields.io/badge/-Hooks-1C1C1C?logo=react&logoColor=61DAFB" alt="react_hooks" height="25px">
   <img src="https://img.shields.io/badge/-Context API-1C1C1C?logo=react&logoColor=61DAFB" alt="react_contextAPI" height="25px"> 
@@ -52,12 +54,18 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e estou me 
   <span>Back-end</span><br>
   <img src="https://img.shields.io/badge/-Node.js-1C1C1C?logo=Node.js&logoColor=3C873A" alt="nodeJS" height="25px">
   <img src="https://img.shields.io/badge/-Express-1C1C1C?logo=express&logoColor=fff" alt="express" height="25px">
-  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?logo=typescript&logoColor=3178C6" alt="typescript" height="25px">
+  <img src="https://img.shields.io/badge/-Python-1C1C1C?logo=python&logoColor=3776AB" alt="phyton" height="25px">
+  <img src="https://img.shields.io/badge/-JWT-1C1C1C?logo=jsonwebtokens&logoColor=fff" alt="jsonwebtokens" height="25px">  
+  <img src="https://img.shields.io/badge/-Swagger-1C1C1C?logo=swagger&logoColor=85EA2D" alt="swagger" height="25px">
+
+
 </div>
 
 <div id="data-base">
   <span>Banco de dados</span><br>
   <img src="https://img.shields.io/badge/-MySQL-1C1C1C?logo=mysql&logoColor=4479A1" alt="mysql" height="25px">
+  <img src="https://img.shields.io/badge/-PostgreSQL-1C1C1C?logo=postgresql&logoColor=4169E1" alt="postgresql" height="25px">
+  <img src="https://img.shields.io/badge/-Prisma_ORM-1C1C1C?logo=prisma&logoColor=2D3748" alt="prisma" height="25px">
   <img src="https://img.shields.io/badge/-Sequelize-1C1C1C?logo=sequelize&logoColor=#52B0E7" alt="sequelize" height="25px">
   <img src="https://img.shields.io/badge/-MongoDB-1C1C1C?logo=mongodb&logoColor=47A248" alt="mongodb" height="25px">
 </div>
@@ -71,11 +79,6 @@ Olá, me chamo **Lígia Bicalho**, sou de Belo Horizonte, MG, Brasil e estou me 
   <img src="https://img.shields.io/badge/-Sinon-1C1C1C?logo=Sinon&logoColor=8D6748" alt="Sinon" height="25px">
 </div>
 
-### Em aprendizado:
-
-<p> 
-  <img src="https://img.shields.io/badge/-Python-1C1C1C?logo=python&logoColor=3776AB" alt="phyton" height="25px">   
-</p>
 <br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ligiabicalho&repo=github-readme-stats&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="ligiabicalho_github_stats" />
